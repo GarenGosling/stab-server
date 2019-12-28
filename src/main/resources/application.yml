@@ -1,0 +1,6 @@
+#spring boot core config
+spring:
+  application:
+    name: stab
+  profiles:
+    active: dev
